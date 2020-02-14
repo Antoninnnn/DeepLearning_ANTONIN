@@ -1,0 +1,33 @@
+Task2
+
+Text
+
+notes:
+1. load in (open _ as _)
+2. tokenize
+3. Vocab (count_corpus()/Collections.Counter(), idx_to_token, token_to_idx, __getitem__.... )
+4. spaCy and NLTK
+
+
+languagemodel
+
+notes:
+1. n-gram (a novel propostion for conditional propability)
+2. 2 backwards
+3. .read()
+4. .replace()
+
+
+
+RNN
+
+notes:
+1. n*d, d*h, h*h...
+2. choose devices (cuda or cpu)
+3. 𝐻𝑡=𝜙(𝑋𝑡𝑊𝑥ℎ+𝐻𝑡−1𝑊ℎℎ+𝑏ℎ)
+4. onehot vector
+5. clip gradient
+6. predict_rnn
+7. perplexity
+8. train_and_predict_cnn()
+9. RNNmodel
