@@ -1,0 +1,34 @@
+Task1
+
+Linear regression
+
+notes:
+1. tensor operations run much faster than one-by-one operation (the usage of time package)
+2. definition of analytical solution and numerical solution
+3. mini-batch: the process of gradient descent.
+4. the method to iterate data and shuffle it
+5. tensor operation(.size, .view, .mm)
+6. idea of epoch
+7. .manuel_seed()
+8. process of inheritace(neural network)
+9. broadcasting
+
+
+
+Softmax
+
+notes:
+1. the torchvision package
+2. the exponential rate to measure the probability
+3. .argmax(dim= )
+4. .backward()
+5. OrderedDict
+6. class torch.optim.SGD(params, lr=, momentum=0, dampening=0, weight_decay=0, nesterov=False)
+
+
+MLP
+
+notes:
+1. several non-linear function for activation(RELU, tanh, sigmoid)
+2. scale of matrix for input and output
+3. set a net
