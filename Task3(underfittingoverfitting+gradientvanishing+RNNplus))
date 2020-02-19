@@ -1,0 +1,27 @@
+Task3
+
+overfitting&underfitting
+
+notes:
+
+1. K-fold cross-validation
+2. methodes to reset ultraparameters
+3. L2 norme regularisation(the set of lamdha)
+4. torch.optim.SGD
+5. 𝐸(ℎ′𝑖)=𝐸(𝜉𝑖)/(1−𝑝)*ℎ𝑖=ℎ𝑖
+
+Gradient vanishing and exploration
+
+notes:
+
+1. definition
+2. the significance for initializing different parameters.
+3. 3 kinds of derivations
+4. the prediction of house price.
+
+RNNplus
+
+notes:
+1. the principal for GRN
+2. what need to be initialized in GRN
+3. the same as LSTM, Deep RNN and interacted RNN.
