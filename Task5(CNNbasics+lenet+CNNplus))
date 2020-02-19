@@ -1,0 +1,29 @@
+Task5
+
+CNN fondation
+
+notes:
+
+1. cross-correlation(dimensions)
+2. feature map and receptive field
+3. padding and stride
+4. the realize of cnn and its module, poolling
+
+
+lenet
+
+notes:
+
+1. the transformation of dimensions in lenet
+2. Batchnormalization
+
+
+CNN plus
+
+notes:
+1. Alexnet
+2. VGG
+3. NiN
+4. Googlenet
+
+
