@@ -1,0 +1,11 @@
+Task4 
+
+machinetranslation
+notes:
+
+1. preprocessing
+2. build vocab, the match of words
+3. encoder-decoder
+4. MaskedSoftmaxCELoss(nn.CrossEntropyLoss):
+5. Beambeach
+
